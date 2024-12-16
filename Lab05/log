@@ -1,0 +1,32 @@
+/home/iasonasl/Lab05
+log
+stat: cannot stat 'filename': No such file or directory
+  File: new_folder/
+  Size: 4096      	Blocks: 8          IO Block: 4096   directory
+Device: 811h/2065d	Inode: 303036      Links: 2
+Access: (0775/drwxrwxr-x)  Uid: ( 1287/iasonasl)   Gid: ( 1289/iasonasl)
+Access: 2024-12-16 11:28:21.661153382 +0200
+Modify: 2024-12-16 11:28:21.661153382 +0200
+Change: 2024-12-16 11:28:21.661153382 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+mv: cannot stat 'oldname.txt': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 304307      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1287/iasonasl)   Gid: ( 1289/iasonasl)
+Access: 2024-12-16 12:28:39.394345799 +0200
+Modify: 2024-12-16 12:28:39.394345799 +0200
+Change: 2024-12-16 12:28:39.394345799 +0200
+ Birth: -
+hello world!!
+hello world!!
+hello world!!
+hello world!!
+new_folder/
+new_folder/
+new_folder/
+new_folder/
+new_folder/
+rm: cannot remove 'file_to_delete/': Is a directory
